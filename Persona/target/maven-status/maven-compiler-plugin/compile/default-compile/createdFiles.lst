@@ -1,0 +1,9 @@
+gui\persona\ProfesorTitular.class
+gui\persona\Persona.class
+gui\persona\Profesor.class
+utils\AlumnoUtils.class
+gui\persona\PersonaUtils.class
+gui\persona\Alumno.class
+gui\persona\PersonaException.class
+gui\persona\Carrera.class
+gui\persona\ProfesorSuplente.class
